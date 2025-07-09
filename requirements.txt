@@ -1,7 +1,8 @@
 streamlit
 langchain
-pinecone-client
+pinecone
 youtube-transcript-api
 python-dotenv
 sentence-transformers
 huggingface_hub
+langchain-pinecone
