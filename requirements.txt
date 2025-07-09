@@ -1,0 +1,7 @@
+streamlit
+langchain
+pinecone-client
+youtube-transcript-api
+python-dotenv
+sentence-transformers
+huggingface_hub
